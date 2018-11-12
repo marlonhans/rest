@@ -1,0 +1,8 @@
+- model: thing.pricetype
+  pk: 1
+  fields:
+    name: Hourly Work
+- model: thing.pricetype
+  pk: 2
+  fields:
+    name: Fixed Price

@@ -1,0 +1,8 @@
+- model: thing.type
+  pk: 1
+  fields:
+    name: Service Offer/Request
+- model: thing.type
+  pk: 2
+  fields:
+    name: Development / Pay

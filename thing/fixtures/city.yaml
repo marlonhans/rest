@@ -1,0 +1,12 @@
+- model: thing.city
+  pk: 1
+  fields:
+    name: Lima
+- model: thing.city
+  pk: 2
+  fields:
+    name: Cusco
+- model: thing.city
+  pk: 3
+  fields:
+    name: Arequipa

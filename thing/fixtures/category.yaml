@@ -1,0 +1,48 @@
+- model: thing.category
+  pk: 1
+  fields:
+    name: PHP
+    description: --- currently blank ---
+    group: 5
+- model: thing.category
+  pk: 2
+  fields:
+    name: NodeJS
+    description: --- currently blank ---
+    group: 5
+- model: thing.category
+  pk: 3
+  fields:
+    name: HTML, CSS, Responsive Design
+    description: --- currently blank ---
+    group: 5
+- model: thing.category
+  pk: 4
+  fields:
+    name: django
+    description: --- currently blank ---
+    group: 5
+- model: thing.category
+  pk: 5
+  fields:
+    name: react native
+    description: --- currently blank ---
+    group: 6
+- model: thing.category
+  pk: 6
+  fields:
+    name: ionic
+    description: --- currently blank ---
+    group: 6
+- model: thing.category
+  pk: 7
+  fields:
+    name: Logo Design
+    description: --- currently blank ---
+    group: 2
+- model: thing.category
+  pk: 8
+  fields:
+    name: Book Cover
+    description: --- currently blank ---
+    group: 2

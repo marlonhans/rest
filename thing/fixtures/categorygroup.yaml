@@ -1,0 +1,34 @@
+- model: thing.categorygroup
+  pk: 1
+  fields:
+    name: Art
+    has_category: False
+- model: thing.categorygroup
+  pk: 2
+  fields:
+    name: Graphics & Design
+    has_category: False
+    parent_id: 1
+- model: thing.categorygroup
+  pk: 3
+  fields:
+    name: Develeopment
+    has_category: False
+- model: thing.categorygroup
+  pk: 4
+  fields:
+    name: Android
+    has_category: False
+    parent_id: 3
+- model: thing.categorygroup
+  pk: 5
+  fields:
+    name: Web
+    has_category: False
+    parent_id: 3
+- model: thing.categorygroup
+  pk: 6
+  fields:
+    name: Hybrid
+    has_category: True
+    parent_id: 3
